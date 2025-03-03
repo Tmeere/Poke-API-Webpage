@@ -7,3 +7,5 @@ For this project, I focused on learning about APIs by creating a Pokémon Finder
 - As a bonus feature, I added a checkbox that, when selected, shows the Pokémon in its shiny form.
 
 This project was a great introduction to working with JavaScript and understanding how APIs are used in web development.
+
+PS What is your favourite Pokemon? Mine is Genesect :>
